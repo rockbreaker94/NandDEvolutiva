@@ -1,4 +1,7 @@
+*.db
+push_master.bat
 launch.json
 *.db
-*.bat
+*.gitignore
 node_modules/*.*
+*.bat
